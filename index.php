@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="style.css" />
  </head>
  <body>
+  <center><img src="images/imagenuno.png" align="top"></center>
   <h1 style="text-align:center;">Servicios</h1>
   <table>
    <?php
@@ -36,5 +37,6 @@
   $conn->close();
  ?> 
  </table>
+ <center><img src="images/imagendos.png" align="bottom"></center>
  </body>
  </html>
